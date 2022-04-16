@@ -6,6 +6,8 @@
 | Adblock for Youtube       | Block Ads in Youtube  | Chrome             | [Chrome ↗](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) |
 |   Blackbox                | Use for copy code from the Youtube video | Chrome | [Chorme ↗](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) |
 | Checker Plus for Gmail    | Check mail instant without go to gmail & gmail notification | Chrome | [Chrome ↗](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=en) |
+| GitPod   | VS Code alike Virtual Code Editor  | Chrome | [Chrome ↗](https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki) |
+| Loom  | Loom is good tools for makeing screen record video  | Chrome | [Chrome ↗](https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb) |
 ## Code Editors Extensions
 | Tools Name | Available Code Editors | Use For / Usages |
 |------------|------------------------|------------------|
